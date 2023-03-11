@@ -8,12 +8,12 @@ function App() {
   return (
     <Router>
     <div className="App">
-            <Router basename = "/my-react-app/">
+            <Routes>
               <Route exact path="/" element={<Log />} />
               <Route path="/sign-in" element={<Log />} />
               <Route path="/sign-up" element={<Sign />} />
               <Route path="/dashboard" element={<DashBoard />} />
-            </Router>
+            </Routes>
         
       </div>
       </Router>
