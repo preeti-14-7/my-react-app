@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/preeti-14-7/static/css/main.a7f3baee.css",
+    "main.js": "/preeti-14-7/static/js/main.77e00aa1.js",
+    "static/js/787.bc7d429a.chunk.js": "/preeti-14-7/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/preeti-14-7/index.html",
+    "main.a7f3baee.css.map": "/preeti-14-7/static/css/main.a7f3baee.css.map",
+    "main.77e00aa1.js.map": "/preeti-14-7/static/js/main.77e00aa1.js.map",
+    "787.bc7d429a.chunk.js.map": "/preeti-14-7/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f3baee.css",
+    "static/js/main.77e00aa1.js"
+  ]
+}
