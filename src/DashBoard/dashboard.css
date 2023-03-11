@@ -1,0 +1,38 @@
+div{
+   padding: 15px;
+}
+thead{
+    border-radius: 10px;
+}
+tr{
+    border-radius: 10px;
+}
+.dashboard{
+    display: flex;
+    justify-content: space-between;
+}
+.buttons{
+    text-align: center;
+}
+.table thead th {
+    border-bottom: none;
+  }
+  
+  .table th,
+  .table td {
+    vertical-align: middle;
+    text-align: center;
+  }
+  
+  .table th {
+    font-weight: bold;
+  }
+
+  td{
+    width: 20px;
+  }
+ 
+label{
+ 
+    margin-right: 25px;
+}  
